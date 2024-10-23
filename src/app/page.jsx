@@ -43,6 +43,6 @@ export default function Home() {
       <footer className="border-t p-8 text-center text-gray-500 mt-16">
       &copy; 2024 All Rights Reserved
       </footer>
-    </>+20 106 164 0401
+    </>
   );
 }
